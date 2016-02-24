@@ -1,11 +1,8 @@
 ---
-title: Introduction to Exome-seq
 output:
   html_document:
     keep_md: TRUE
 ---
-
-This is a lecture for the Advanced Genome Analysis course in the Biochemistry and Molecular Genetics at the University of Colorado School. Presented on February 11, 2016.
 
 
 *******
