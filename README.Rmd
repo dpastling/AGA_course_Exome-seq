@@ -1,11 +1,7 @@
----
-output:
-  html_document:
-    keep_md: TRUE
----
 
 ```{r, results ="asis", echo = FALSE}
 fig_files <- dir(path = "images", pattern = "png$", full.names = TRUE) 
 #cat(paste0("* ", fig_files, " ![](", fig_files, ")\n"))
 cat(paste0("\n*******\n\n", " ![](", fig_files, ")\n"))
 ```
+
