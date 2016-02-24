@@ -1,10 +1,3 @@
----
-output:
-  html_document:
-    keep_md: TRUE
----
-
-
 *******
 
  ![](images/ExomeSeq_Astling_Feb16_2016.001.png)
